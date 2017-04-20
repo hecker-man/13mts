@@ -12,3 +12,8 @@ Everyone be sure to make and account with an identifiable name+the profile Abbs 
 - Note that only Ryan and Tatsuya can assign an issue, however if anyone have an issue, you can discuss it with one of the two
 
 ## Pull Requests 
+
+
+
+## Please visit these sights for more help
+https://unity3d.com/learn/tutorials/projects/roll-ball-tutorial 
