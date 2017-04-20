@@ -1,37 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cooljoe21/13mts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This will act as our grand scale Trello for the rest of the school year+next year
+There will be a basic run down of how each part will work and how we'll be utilizing it in class
+Everyone be sure to make and account with an identifiable name+the profile Abbs made in the New Game Development Trello board
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Issues-Descriptions+Usage
+- Issues are referring to, for the purpose of this project, tasks and complications Ryan or Tatsuya and anyone in the club has respectively
+- Tasks would be things such as "we need a code for this actions" or "we need a model of this." 
+- Complications would be errors in the code or if someone disagrees with the looks of a particular model and we need someone to fix it
+- To fix the issues that arises in the project, it'll be fix via the pull requests 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cooljoe21/13mts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Pull Requests 
