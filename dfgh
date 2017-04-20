@@ -1,0 +1,30 @@
+public class meleAttack : MonoBehaviour {
+
+	private RaycastHit hit;
+	public string enemyTag;
+	public float distanceOfAttack;
+	//public play_aim other;
+
+	// Use this for initialization
+	void Start () {
+	}
+
+	// Update is called once per frame
+	void Update () {
+		if (Input.GetMouseButtonDown (1)) {
+			Debug.Log("Raycasting");
+			Physics.Raycast (Camera.main.ScreenPointToRay (Input.mousePosition), out hit, distanceOfAttack);
+			//other.Press();
+			if (hit.rigidbody.tag == enemyTag) {
+				Debug.Log ("Hit an enemy");
+				//other.Press();
+			} else {
+				Debug.Log ("Didnt hit an enemy");
+
+			}
+		}
+		// Then you could find your GO with a specific tag by doing something like:
+
+	}
+		
+}
