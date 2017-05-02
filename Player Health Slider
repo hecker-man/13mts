@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class updateHealthSlider : MonoBehaviour {
+	private Slider health;
+
+	// Use this for initialization
+	void Start () {
+		health = GameObject.Find("HealthSlider").GetComponent<Slider>();
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		health.value = PlayerHealth.playerHealth;
+	}
+}
