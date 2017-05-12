@@ -1,0 +1,27 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class bank : MonoBehaviour {
+
+	public int playerCurrency = 100;
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+	void buyItem(int cost){
+		if(playerCurrency <= cost){
+			playerCurrency = playerCurrency - cost;
+		}
+	}
+
+	void giveCoins(int coins){
+		playerCurrency = playerCurrency + coins;
+	}
+}
