@@ -3,6 +3,8 @@
 This will act as our grand scale Trello for the rest of the school year+next year
 There will be a basic run down of how each part will work and how we'll be utilizing it in class
 Everyone be sure to make and account with an identifiable name+the profile Abbs made in the New Game Development Trello board
+- Please fill this out!!
+https://goo.gl/forms/Slme9KaNTwEhLkjo1
 
 # Issues-Descriptions+Usage
 - Issues are referring to, for the purpose of this project, tasks and complications Ryan or Tatsuya has found and would assign it to someone
@@ -26,3 +28,5 @@ https://app.moqups.com/john.greenway@smusd.org/0aOoTAhYLq/edit/page/ab854a8a3
 
 
 ### PLEASE USE YOUR REAL NAME!!!
+
+
