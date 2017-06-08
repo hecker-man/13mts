@@ -29,4 +29,4 @@ https://app.moqups.com/john.greenway@smusd.org/0aOoTAhYLq/edit/page/ab854a8a3
 
 ### PLEASE USE YOUR REAL NAME!!!
 
-
+We will be having an open house on Tuesday June 13 in Greenway's room. It officially starts at 6:00 and ends and 8:00 but you can be there longer to help the set up. There will still be club that day too and club will be a preparation for the event. I will also be talking about future plans there and so you might want to show up. Bring your family too to show off the work that you have created over the year.
